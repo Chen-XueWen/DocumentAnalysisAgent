@@ -6,3 +6,9 @@ This system can:
 3. Perform calculations when needed (to demonstrate normal tools)
 4. Analyze content and provide concise summaries
 5. Execute specific instructions related to documents
+
+![compiled_graph](./compiled_graph.png)
+
+![langfuse](./langfuse.png)
+
+![batmannotes](./Batman_training_and_meals.png)
